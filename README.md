@@ -1,1 +1,1 @@
-# algothon
+# Algothon
